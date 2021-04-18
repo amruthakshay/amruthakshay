@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amruthakshay
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS DevOps
+- 💞️ I’m looking to collaborate on DevOps
+- 📫 How to reach me amruth.akshay97@gmail.com
